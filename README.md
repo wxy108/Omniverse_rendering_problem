@@ -1,3 +1,6 @@
+<!-- repo-consolidation-2026-10-17 -->
+> **Archived after repository consolidation (2026-10-17).** Continue at [Centipede_isaac_rl](https://github.com/wxy108/Centipede_isaac_rl/tree/main/docs/rendering). Original files and history remain in this archive. The exact pre-consolidation source and its full history are also preserved on [legacy/rendering-notes/main](https://github.com/wxy108/Centipede_isaac_rl/tree/legacy/rendering-notes/main).
+
 # Isaac Lab Rendering Pipeline — Notes & Offline (PyVista) Renderer Guide
 
 A standalone, exhaustive reference for rendering a small articulated robot (a centipede) in
